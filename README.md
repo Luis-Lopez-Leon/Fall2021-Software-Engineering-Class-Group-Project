@@ -1,6 +1,13 @@
 # Fall2021-Software-Engineering-Class-Group-Project
 
-I've included a zip file for those who want to download the prototype program project named "Health_Care_AppV9.zip"
+I've included a zip file for those who want to download the prototype program project named "Health_Care_AppV9.zip" as well as our powerpoint presentations and recorded video.
+
+[Health_Care_AppV9.zip](https://github.com/Luis-Lopez-Leon/Fall2021-Software-Engineering-Class-Group-Project/files/9890573/Health_Care_AppV9.zip)
+
+[Team Chosen Ones Good_Health_Assistant_Application_Presentation_one.pptx](https://github.com/Luis-Lopez-Leon/Fall2021-Software-Engineering-Class-Group-Project/files/9890562/Team.Chosen.Ones.Good_Health_Assistant_Application_Presentation_one.pptx)
+
+[Good_Health_Assistant_Application_Presentation_two.pptx](https://github.com/Luis-Lopez-Leon/Fall2021-Software-Engineering-Class-Group-Project/files/9890569/Good_Health_Assistant_Application_Presentation_two.pptx)
+
 
 
 Introduction
@@ -12,6 +19,11 @@ Due to time and constraints, we were not able to fully develop every feature of 
 Project Overview
 
 Using the Visual Studios IDE, our group took advantage of the Windows Form App .NET Framework template to be our primary infrastructure for the HealthCare application. The .NET Framework gives us access to a variety of GUI options to create and design forms with code integration between Forms. This integration also includes the usage of SQL databases to manage to modify data for users of the application. To give an example of how our application utilizes these features, we have a Login form with a variety of buttons and text boxes for the user to input their login information. From there, when the user clicks the login button, the code opens a connection to a SQL database and uses a SQL query to pull data from the Login database. There is a conditional statement to ensure the user information input matches what is pulled from the SQL query. If the login information is correct, the user will be able to successful login to the software. From there, we utilize a function within the forms that allows us to hide the current form the user is on and open another form; This allows navigation between different forms or windows created for application. After the Login form is closed out, the SQL database connection is closed to reduce memory usage within the application since we no longer require access to Login data to verify users. At the Main Menu form, the user can navigate through a variety of features within the app, using the hide/show function that is contained within the .NET Framework class. Since a local SQL Database was used to program this project, the Login process will not work on other computers that do not have the local database, to bypass this to test the app, there is a manual way  to login using the credentials, id: admin, password: password1 any other credentials used to attempt to login will make an error box pop up rejecting the login.
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/103616373/198692281-889687d0-7d1c-4cb3-a31e-e4ab5f0f41fc.png)
 ![image](https://user-images.githubusercontent.com/103616373/198692393-5a5192e6-1762-4907-af64-b424002099f0.png)
