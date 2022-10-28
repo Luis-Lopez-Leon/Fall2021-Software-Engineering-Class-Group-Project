@@ -1,5 +1,8 @@
 # Fall2021-Software-Engineering-Class-Group-Project
 
+I've included a zip file for those who want to download the prototype program project named "Health_Care_AppV9.zip"
+
+
 Introduction
 
 The Good Health Assistant application aims to aid health promotion and disease prevention through the convenience of a user’s electronic device such as a phone, tablet, or laptop. The application’s goal is to engage and motivate patients to participate in healthy behaviors to reduce the risk of developing chronic disease. The application will provide users with news feeds customized by the practice. This will help the user stay informed on health-related topics. The application will allow secure encrypted communication between a user and the provider. A healthcare practice will be able to adopt this application’s innovative style to render services, communicate, track healthcare data, and more.
