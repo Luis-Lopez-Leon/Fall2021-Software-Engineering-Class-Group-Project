@@ -1,6 +1,6 @@
 # Fall2021-Software-Engineering-Class-Group-Project
 
-I've included a zip file for those who want to download the prototype program project named "Health_Care_AppV9.zip" as well as our powerpoint presentations and recorded video.
+I've included a zip file for those who want to download the prototype program project named "Health_Care_AppV9.zip" as well as our powerpoint presentations.
 
 [Health_Care_AppV9.zip](https://github.com/Luis-Lopez-Leon/Fall2021-Software-Engineering-Class-Group-Project/files/9890573/Health_Care_AppV9.zip)
 
